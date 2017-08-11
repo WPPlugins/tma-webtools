@@ -1,0 +1,10 @@
+{
+	"require": {
+		"redux-framework/redux-framework": "3.6.2"		
+	},
+	"extra": {
+		"installer-paths": {
+			"modules/{$name}": ["redux-framework/redux-framework"]
+		}
+	}
+}
